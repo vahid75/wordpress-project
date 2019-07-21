@@ -1,6 +1,6 @@
 # Project Title
 
-###         wordpress-project
+wordpress-project
 
 ## Getting Started
 
@@ -23,9 +23,6 @@ this theme has basic markups but users can implement variety wordpress default f
 
 wordpress should be installed on your machine or host.
 
-```
-Give examples
-```
 
 ### Installing
 
