@@ -1,17 +1,19 @@
-<?php 
-//Template name:tt.php ?>
-<?php get_header();
-wp_nav_menu() ?>
+<?php  // a custom page themplate file. use it for a single page customizing or a page named tt.("tt" is just a arbitrary name. you can name it by your choice.)
 
 
-<?php
+//Template name:tt.php 
+get_header();
+wp_nav_menu() ;
+
+
+//start point for wordpress famous loop.
 		if ( have_posts() ) {
 
 			// Load posts loop.
 			while ( have_posts() ) {
         
 				the_post();
-        // get_template_part( 'template-parts/content/content' ); for loading a post themplate file.
+        // get_template_part( 'template-parts/content/content' ); for loading a page themplate file named "page-content.php" .
         
         
 			}
