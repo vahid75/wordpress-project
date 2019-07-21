@@ -35,7 +35,7 @@ just put the root directory into this path:
 and activate the theme in 
 
 ```
-admin panel => apearence => theme 
+admin panel => appearance => theme 
 ```
 
 
