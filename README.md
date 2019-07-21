@@ -7,7 +7,7 @@ wordpress-project
 A wordpress theme development project .
 converting a bootstrap template to  wordpress theme from scratch.
 
-this theme has basic markups but users can implement variety wordpress default functionalities beacuse the most  wordpress standard rules Observed in the theme.
+this theme has basic markups but users can implement various wordpress default functionalities beacuse the most  wordpress standard rules Observed in the theme.
 
 
 ## theme features
